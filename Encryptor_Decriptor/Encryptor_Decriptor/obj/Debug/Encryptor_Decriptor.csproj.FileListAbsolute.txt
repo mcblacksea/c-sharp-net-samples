@@ -11,3 +11,10 @@ F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\bin\Debug\Encryptor_De
 F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\obj\Debug\Encryptor_Decriptor.csproj.CoreCompileInputs.cache
 F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\obj\Debug\Encryptor_Decriptor.exe
 F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\obj\Debug\Encryptor_Decriptor.pdb
+W:\proj\dev-stack\c-sharp\c-sharp-net-samples\Encryptor_Decriptor\Encryptor_Decriptor\bin\Debug\Encryptor_Decriptor.exe.config
+W:\proj\dev-stack\c-sharp\c-sharp-net-samples\Encryptor_Decriptor\Encryptor_Decriptor\bin\Debug\Encryptor_Decriptor.exe
+W:\proj\dev-stack\c-sharp\c-sharp-net-samples\Encryptor_Decriptor\Encryptor_Decriptor\bin\Debug\Encryptor_Decriptor.pdb
+W:\proj\dev-stack\c-sharp\c-sharp-net-samples\Encryptor_Decriptor\Encryptor_Decriptor\obj\Debug\Encryptor_Decriptor.csprojAssemblyReference.cache
+W:\proj\dev-stack\c-sharp\c-sharp-net-samples\Encryptor_Decriptor\Encryptor_Decriptor\obj\Debug\Encryptor_Decriptor.csproj.CoreCompileInputs.cache
+W:\proj\dev-stack\c-sharp\c-sharp-net-samples\Encryptor_Decriptor\Encryptor_Decriptor\obj\Debug\Encryptor_Decriptor.exe
+W:\proj\dev-stack\c-sharp\c-sharp-net-samples\Encryptor_Decriptor\Encryptor_Decriptor\obj\Debug\Encryptor_Decriptor.pdb

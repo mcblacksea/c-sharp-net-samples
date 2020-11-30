@@ -21,7 +21,7 @@ namespace Encryptor_Decriptor
 
                 password_before = Console.ReadLine(); // Get password string from user
 
-                Console.WriteLine("Select the method: \r\nEncrypt, press 'e' / or Decript, press 'd':");
+                Console.WriteLine("Select the method: \r\nEncrypt, press 'e' / or Decrypt, press 'd':");
                 method = Console.ReadLine(); // Get method
 
                 if (method == "e") // Check string
