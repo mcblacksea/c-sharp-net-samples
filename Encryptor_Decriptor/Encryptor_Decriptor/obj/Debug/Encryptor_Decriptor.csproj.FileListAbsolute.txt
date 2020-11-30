@@ -1,0 +1,13 @@
+F:\Projects\ENVION\CRAIG\PROJECTS\Test\Encryptor_Decriptor\Encryptor_Decriptor\bin\Debug\Encryptor_Decriptor.exe.config
+F:\Projects\ENVION\CRAIG\PROJECTS\Test\Encryptor_Decriptor\Encryptor_Decriptor\bin\Debug\Encryptor_Decriptor.exe
+F:\Projects\ENVION\CRAIG\PROJECTS\Test\Encryptor_Decriptor\Encryptor_Decriptor\bin\Debug\Encryptor_Decriptor.pdb
+F:\Projects\ENVION\CRAIG\PROJECTS\Test\Encryptor_Decriptor\Encryptor_Decriptor\obj\Debug\Encryptor_Decriptor.csprojResolveAssemblyReference.cache
+F:\Projects\ENVION\CRAIG\PROJECTS\Test\Encryptor_Decriptor\Encryptor_Decriptor\obj\Debug\Encryptor_Decriptor.csproj.CoreCompileInputs.cache
+F:\Projects\ENVION\CRAIG\PROJECTS\Test\Encryptor_Decriptor\Encryptor_Decriptor\obj\Debug\Encryptor_Decriptor.exe
+F:\Projects\ENVION\CRAIG\PROJECTS\Test\Encryptor_Decriptor\Encryptor_Decriptor\obj\Debug\Encryptor_Decriptor.pdb
+F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\bin\Debug\Encryptor_Decriptor.exe.config
+F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\bin\Debug\Encryptor_Decriptor.exe
+F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\bin\Debug\Encryptor_Decriptor.pdb
+F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\obj\Debug\Encryptor_Decriptor.csproj.CoreCompileInputs.cache
+F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\obj\Debug\Encryptor_Decriptor.exe
+F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\obj\Debug\Encryptor_Decriptor.pdb

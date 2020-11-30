@@ -1,0 +1,13 @@
+F:\Projects\ENVION\CRAIG\PROJECTS\Test\Encryptor_Decriptor\Encryptor_Decriptor\bin\Release\Encryptor_Decriptor.exe.config
+F:\Projects\ENVION\CRAIG\PROJECTS\Test\Encryptor_Decriptor\Encryptor_Decriptor\bin\Release\Encryptor_Decriptor.exe
+F:\Projects\ENVION\CRAIG\PROJECTS\Test\Encryptor_Decriptor\Encryptor_Decriptor\bin\Release\Encryptor_Decriptor.pdb
+F:\Projects\ENVION\CRAIG\PROJECTS\Test\Encryptor_Decriptor\Encryptor_Decriptor\obj\Release\Encryptor_Decriptor.csproj.CoreCompileInputs.cache
+F:\Projects\ENVION\CRAIG\PROJECTS\Test\Encryptor_Decriptor\Encryptor_Decriptor\obj\Release\Encryptor_Decriptor.exe
+F:\Projects\ENVION\CRAIG\PROJECTS\Test\Encryptor_Decriptor\Encryptor_Decriptor\obj\Release\Encryptor_Decriptor.pdb
+F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\bin\Release\Encryptor_Decriptor.exe.config
+F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\bin\Release\Encryptor_Decriptor.exe
+F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\bin\Release\Encryptor_Decriptor.pdb
+F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\obj\Release\Encryptor_Decriptor.csprojAssemblyReference.cache
+F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\obj\Release\Encryptor_Decriptor.csproj.CoreCompileInputs.cache
+F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\obj\Release\Encryptor_Decriptor.exe
+F:\Projects\Local\Encryptor_Decriptor\Encryptor_Decriptor\obj\Release\Encryptor_Decriptor.pdb
