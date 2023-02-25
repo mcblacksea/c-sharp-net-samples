@@ -31,8 +31,8 @@ class Result
         var negativeNumbersProportion = Decimal.Divide(negativeNumbers, elementsCount);
         var zeroNumbersProportion = Decimal.Divide(zeroNumbers, elementsCount);
         Console.WriteLine($"{positiveNumbersProportion:N6}\r\n{negativeNumbersProportion:N6}\r\n{zeroNumbersProportion:N6}");
-    }
 
+    }
 }
 
 class Solution
